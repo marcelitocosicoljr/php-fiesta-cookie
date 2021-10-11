@@ -16,7 +16,9 @@ $valhalla = array (
     );
 
 //Print the array
+echo "<pre>";
 print_r($valhalla);
+echo "</pre>";
 
 echo "<br><br>";
 
